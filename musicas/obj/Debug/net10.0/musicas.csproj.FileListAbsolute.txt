@@ -1,0 +1,14 @@
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\bin\Debug\net10.0\musicas.exe
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\bin\Debug\net10.0\musicas.deps.json
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\bin\Debug\net10.0\musicas.runtimeconfig.json
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\bin\Debug\net10.0\musicas.dll
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\bin\Debug\net10.0\musicas.pdb
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\musicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\musicas.AssemblyInfoInputs.cache
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\musicas.AssemblyInfo.cs
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\musicas.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\musicas.dll
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\refint\musicas.dll
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\musicas.pdb
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\musicas.genruntimeconfig.cache
+C:\Users\Ryan\OneDrive\Documentos\ALURA.POO\musicas\obj\Debug\net10.0\ref\musicas.dll
